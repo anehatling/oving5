@@ -1,0 +1,33 @@
+{ "fjell": [
+
+    {
+    "navn":"Folarskardnuten",
+    "fylke":"Viken",
+    "høyde":1933
+    },
+
+    {
+    "navn":"Galdhøpiggen",
+    "fylke":"Innlandet",
+    "høyde":2469
+    },
+
+    {
+    "navn":"Gaustatoppen",
+    "fylke":"Vestfold og Telemark",
+    "høyde":1883
+    },
+
+    {
+    "navn":"Jiehkkevárri",
+    "fylke":"Troms og Finnmark",
+    "høyde":1834
+    },
+
+    {
+    "navn":"Kjerkeberget",
+    "fylke":"Oslo",
+    "høyde":630
+    }
+]
+}
